@@ -1,6 +1,6 @@
 cask "pomopet" do
   version "1.0.0"
-  sha256 "dfed5466b3c27418bb3f5b1fa8684ed1b3aba78209fde0e85fef61398b8864f5"
+  sha256 "5dc8c1420d01467f64c879453d68d62fa0e049ce68e0182f04f61fa5b0f6fc14"
 
   url "https://github.com/kes02/Pomopet/releases/download/v#{version}/Pomopet-#{version}.dmg"
   name "Pomopet"
